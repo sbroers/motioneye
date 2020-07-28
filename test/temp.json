@@ -1,0 +1,50 @@
+{"time" : "2020-07-28 14:37:36", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.611, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:37:36", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.611, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:37:36", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.611, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:37:36", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.611, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:23", "model" : "Nexus-TH", "id" : 202, "channel" : 1, "battery_ok" : 1, "temperature_C" : 20.400, "humidity" : 99}
+{"time" : "2020-07-28 14:38:23", "model" : "Eurochron-TH", "id" : 202, "battery_ok" : 0, "temperature_C" : -15.700, "humidity" : 204, "button" : 0}
+{"time" : "2020-07-28 14:38:39", "model" : "Bresser-3CH", "id" : 67, "channel" : 1, "battery_ok" : 1, "temperature_C" : 22.556, "humidity" : 49, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:38:53", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:39:20", "model" : "Nexus-TH", "id" : 202, "channel" : 1, "battery_ok" : 1, "temperature_C" : 20.400, "humidity" : 99}
+{"time" : "2020-07-28 14:39:20", "model" : "Eurochron-TH", "id" : 202, "battery_ok" : 0, "temperature_C" : -15.700, "humidity" : 204, "button" : 0}
+{"time" : "2020-07-28 14:39:36", "model" : "Bresser-3CH", "id" : 67, "channel" : 1, "battery_ok" : 1, "temperature_C" : 22.667, "humidity" : 49, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:39:54", "model" : "Jansite", "type" : "TPMS", "id" : "cd7de99", "flags" : 9, "pressure_kPa" : 175.100, "temperature_C" : 102.000, "code" : "cd7de999679846"}
+{"time" : "2020-07-28 14:39:54", "model" : "Abarth 124 Spider", "type" : "TPMS", "id" : "cd7de999", "flags" : "67", "pressure_kPa" : 209.760, "temperature_C" : 20.000, "status" : 54, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:39:57", "model" : "Jansite", "type" : "TPMS", "id" : "cd7de9a", "flags" : 10, "pressure_kPa" : 170.000, "temperature_C" : -50.000, "code" : "cd7de9af640000"}
+{"time" : "2020-07-28 14:39:58", "model" : "Jansite", "type" : "TPMS", "id" : "cd7de9c", "flags" : 12, "pressure_kPa" : 175.100, "temperature_C" : 99.000, "code" : "cd7de9c7679549"}
+{"time" : "2020-07-28 14:39:58", "model" : "Abarth 124 Spider", "type" : "TPMS", "id" : "cd7de9c7", "flags" : "67", "pressure_kPa" : 205.620, "temperature_C" : 23.000, "status" : 54, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:40:00", "model" : "Jansite", "type" : "TPMS", "id" : "cd7de99", "flags" : 9, "pressure_kPa" : 175.100, "temperature_C" : 101.000, "code" : "cd7de999679746"}
+{"time" : "2020-07-28 14:40:00", "model" : "Abarth 124 Spider", "type" : "TPMS", "id" : "cd7de999", "flags" : "67", "pressure_kPa" : 208.380, "temperature_C" : 20.000, "status" : 64, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:10", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.778, "humidity" : 67, "mic" : "CRC"}
+{"time" : "2020-07-28 14:40:17", "model" : "Nexus-TH", "id" : 202, "channel" : 1, "battery_ok" : 1, "temperature_C" : 20.500, "humidity" : 99}
+{"time" : "2020-07-28 14:40:17", "model" : "Eurochron-TH", "id" : 202, "battery_ok" : 0, "temperature_C" : -15.700, "humidity" : 205, "button" : 0}
+{"time" : "2020-07-28 14:40:33", "model" : "Bresser-3CH", "id" : 67, "channel" : 1, "battery_ok" : 1, "temperature_C" : 22.722, "humidity" : 49, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:41:14", "model" : "Nexus-TH", "id" : 202, "channel" : 1, "battery_ok" : 1, "temperature_C" : 20.500, "humidity" : 99}
+{"time" : "2020-07-28 14:41:14", "model" : "Eurochron-TH", "id" : 202, "battery_ok" : 0, "temperature_C" : -15.700, "humidity" : 205, "button" : 0}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:27", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 22.944, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:41:30", "model" : "Bresser-3CH", "id" : 67, "channel" : 1, "battery_ok" : 1, "temperature_C" : 22.722, "humidity" : 49, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:41:46", "model" : "Acurite-Rain", "id" : 6, "rain_mm" : 963.500}
+{"time" : "2020-07-28 14:42:11", "model" : "Nexus-TH", "id" : 202, "channel" : 1, "battery_ok" : 1, "temperature_C" : 20.500, "humidity" : 99}
+{"time" : "2020-07-28 14:42:11", "model" : "Eurochron-TH", "id" : 202, "battery_ok" : 0, "temperature_C" : -15.700, "humidity" : 205, "button" : 0}
+{"time" : "2020-07-28 14:42:27", "model" : "Bresser-3CH", "id" : 67, "channel" : 1, "battery_ok" : 1, "temperature_C" : 22.722, "humidity" : 48, "mic" : "CHECKSUM"}
+{"time" : "2020-07-28 14:42:44", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 23.056, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:42:44", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 23.056, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:42:44", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 23.056, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:42:44", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 23.056, "humidity" : 66, "mic" : "CRC"}
+{"time" : "2020-07-28 14:42:44", "model" : "inFactory-TH", "id" : 200, "channel" : 3, "battery_ok" : 1, "temperature_C" : 23.056, "humidity" : 66, "mic" : "CRC"}
